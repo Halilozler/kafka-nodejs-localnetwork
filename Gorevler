@@ -1,0 +1,4 @@
+-- PostaSql bağla 
+-- konsoldan mesaj al senin bir useridn olsun onla göndersin.
+
+kafka: 10.0.74.67
