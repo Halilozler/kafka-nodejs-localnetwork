@@ -1,0 +1,9 @@
+-- PostaSql bağla 
+-- konsoldan mesaj al senin bir useridn olsun onla göndersin.
+
+-- kafka: 10.0.74.67
+
+-- SQL komutlarını core da tobla
+-- Tablo oluşturma komutunuda yaz
+-- dataAcces katmanında veritabanı bağlantısı yap
+-- program ilk başladığında database ye bağlansın baksın sonra kafkaya bağlansın baksın sonra burada oluşturulan nesneler genel bir yapıya kaydedilsin.
